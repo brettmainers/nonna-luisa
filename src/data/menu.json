@@ -1,0 +1,313 @@
+[
+    {
+    "id": 1,
+    "name": "Antipasto Misto",
+    "description": "Grilled & sautéed vegetables with fresh herbs, extra virgin olive oil, and Italian seasoning, Sliced Italian Meats & Cheese",
+    "price": "$22.00",
+    "category": "Antipasto"
+    },
+
+    {
+    "id": 2,
+    "name": "Calamari Siciliani",
+    "description": "Sautéed calamari with garlic, chili peppers, black olives, capers, white wine, Italian fresh herbs, and tomato sauce",
+    "price": "$15.00",
+    "category": "Antipasto"
+    },
+
+    {
+    "id": 3,
+    "name": "Mozzarella Caprese",
+    "description": "Fresh mozzarella and fresh tomatoes with extra-virgin olive oil and basil",
+    "price": "$17.00",
+    "category": "Antipasto"
+    },
+        
+    {
+    "id": 4,
+    "name": "Gamberoni Aglio & Olio",
+    "description": "Prawns sautéed with garlic, shallots, extra-virgin olive oil, chili peppers, white wine, paprika, and Italian herbs",
+    "price": "$17.00",
+    "category": "Antipasto"
+    },
+
+    {
+    "id": 5,
+    "name": "Bruschetta",
+    "description": "Toasted rustic bread topped with tomatoes, garlic, basil, and extra-virgin olive oil",
+    "price": "$12.00",
+    "category": "Antipasto"
+    },
+
+    {
+    "id": 6,
+    "name": "Parmigiana Di Melenzane",
+    "description": "Eggplant sliced and baked with tomato sauce, mozzarella, parmigiana, and basil",
+    "price": "$15.00",
+    "category": "Antipasto"
+    },
+
+    {
+    "id": "7",
+    "name": "Zuppa Cozze & Vongole",
+    "description": "Sautéed clams and mussels with garlic, white wine, fresh Italian herbs, chili peppers, and extra-virgin olive oil",
+    "price": "$19.00",
+    "category": "Antipasto"
+    },
+
+    {
+    "id": "8",
+    "name": "Zuppa Del Giorno",
+    "description": "Fresh soup of the day",
+    "price": "Ask your server!",
+    "category": "Antipasto"
+    },
+
+
+
+
+
+    {
+    "id": "9",
+    "name": "Arugula Salad",
+    "description": "Arugula salad made with balsamic vinegar, extra-virgin olive oil, and shaved parmesan",
+    "price": "$12.00",
+    "category": "Insalate"
+    },
+
+    {
+    "id": "10",
+    "name": "Insalata Cesare",
+    "description": "Romaine lettuce tossed with traditional Cesare dressing, parmesan cheese, and homemade croutons",
+    "price": "$13.00",
+    "category": "Insalate"
+    },
+
+    {
+    "id": "11",
+    "name": "Spinaci Salad",
+    "description": "Caramelized onions, sautéed pancetta, pistachios, and spinach tossed with red wine vinegar and extra-virgin olive oil",
+    "price": "$12.00",
+    "category": "Insalate"
+    },
+
+
+
+
+
+    {
+    "id": "12",
+    "name": "Ravioli",
+    "description": "Three cheese ravioli tossed with sautéed prawns in a light creamy Alfredo saffron sauce",
+    "price": "$27.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "13",
+    "name": "Penne Alla Norma",
+    "description": "Roasted eggplant in a tomato sauce with basil, garlic, extra-virgin olive oil, and ricotta cheese",
+    "price": "$21.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "14",
+    "name": "Rigatoni Bolognese",
+    "description": "Groud veal sautéed with onion, carrots, celery, rosemary, basil, and tomato sauce simmered together",
+    "price": "$24.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "15",
+    "name": "Rigatoni Sausage and Peppers",
+    "description": "Sautéed sausage and bell peppers with caramelized onions in extra-virgin olive oil & fresh tomato sauce",
+    "price": "$23.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "16",
+    "name": "Spaghetti Di Mare",
+    "description": "An assortment of fresh seafood sautéed with garlic, white wine, tomatoes, extra-virgin olive oil, and fresh Italian herbs",
+    "price": "$29.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "17",
+    "name": "Spaghetti Con Polpette Nonna Luisa",
+    "description": "Veal, raisins, pine nuts, garlic, breadcrumbs, and parsley slowly cooked for two hours in a fresh tomato sauce",
+    "price": "$26.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "18",
+    "name": "Tortellini Paglia Fieno",
+    "description": "Pancetta sautéed in extra-virgin olive oil with shallots, peas and cream over three cheese torellini with asiago, parmigiana, and romano",
+    "price": "$22.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "19",
+    "name": "Gnocchi Sorrentina Al Forno",
+    "description": "Homemade potato dumplings in a tomato sauce with fresh mozzarella, basil, garlic, and extra-virgin olive oil baked to finish",
+    "price": "$22.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "20",
+    "name": "Penne Primavera",
+    "description": "An assortment of fresh seasonal vegetables with creamy pesto sauce finished with pecorino",
+    "price": "$24.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "21",
+    "name": "Fettuccine Al Pesto or Alfredo",
+    "description": "Fettuccine tossed with your choice of pesto or Alfredo sauce with an option to add sautéed chicken",
+    "price": "$20.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "22",
+    "name": "Lasagna Della Casa",
+    "description": "Homemade pasta with veal ragù and bechamel sauce",
+    "price": "$29.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "23",
+    "name": "Fettuccine Al Salmone",
+    "description": "Sautéed shallots, extra-virgin olive oil, brandy, smoked salmon in a light cream sauce",
+    "price": "$24.00",
+    "category": "Pasta"
+    },
+
+    {
+    "id": "24",
+    "name": "Risotto Del Giorno",
+    "description": "Italian rice cooked with the recipe of the day",
+    "price": "Ask your server!",
+    "category": "Pasta"
+    },
+
+
+
+
+
+    {
+    "id": "25",
+    "name": "Pollo Cacciatore",
+    "description": "Free range chicken breast sautéed with extra-virgin olive oil, garlic, roasted bell peppers, mushrooms, black olives, green olives, and Italian herbs",
+    "price": "$28.00",
+    "category": "Carne"
+    },
+
+    {
+    "id": "26",
+    "name": "Pollo Parmigiana",
+    "description": "Free range chicken breast breaded and lightly sautéed in extra-virgin olive oil topped with fresh mozzarella and tomato sauce baked to finish",
+    "price": "$28.00",
+    "category": "Carne"
+    },
+
+    {
+    "id": "27",
+    "name": "Pollo Ai Pinoli",
+    "description": "Free range chicken breast lightly sautéed in extra-virgin olive oil and brandy with a light cream pesto sauce topped with toasted pine nuts",
+    "price": "$27.00",
+    "category": "Carne"
+    },
+
+
+
+
+
+    {
+    "id": "28",
+    "name": "Torta Della Nonna",
+    "description": "Pastry cream with a hint of lemon, shortened pastry covered with pine nuts, almonds, and powdered sugar",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "29",
+    "name": "Tiramisu",
+    "description": "Layers of espresso drenched ladyfingers, separated by mascarpone cream and covered in coco powder",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "30",
+    "name": "Pistachio Cheesecake",
+    "description": "",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "31",
+    "name": "Créme Brulee Cheesecake",
+    "description": "",
+    "price": "$11.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "32",
+    "name": "Chocolate Hazelnut Cake",
+    "description": "",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "33",
+    "name": "Profiteroles",
+    "description": "Cream puffs surrounded by vanilla and chocolate ice cream",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "34",
+    "name": "Tartufo Classico",
+    "description": "Zabalone semifreddo surrounded by chocolate gelato and caramelized hazelnuts, topped with coco powder",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "35",
+    "name": "Cannoli",
+    "description": "A crisp and light shell filled with a ricotta cheese filling. Dipped in your choice of mini chocolate chips, pistachios, or sliced almonds, covered with powdered sugar",
+    "price": "$9.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "36",
+    "name": "Limoncello Mascarpone Cake",
+    "description": "",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "37",
+    "name": "Sfogliatella",
+    "description": "A crispy, flaky, thin dough stuffed with a sweet ricotta cheese filling then baked",
+    "price": "$9.00",
+    "category": "Desserts"
+    }
+]
