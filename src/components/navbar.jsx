@@ -13,15 +13,13 @@ export default function Navbar() {
 
     return (
         <>
-            <header className="fixed top-0 left-0 w-full z-40 p-2 bg-white">
+            <header className="fixed top-0 left-0 w-full z-40 p-2 bg-white border-b">
                 {/* Desktop navbar */}
-                <nav className="hidden lg:flex justify-evenly items-center text-xl">
+                <nav className="hidden lg:flex justify-evenly items-center text-xl font-description">
                     <Link to ="/"><img className="w-15 h-15 rounded-full" src={logo} alt="Nonna Luisa Ristorante Logo" /></Link>
                     <NavLink to ="/" className={navLinkStyle}>Welcome</NavLink>
-                    <NavLink to ="/menu" className={navLinkStyle}>Menu</NavLink>
-                    <NavLink to ="/wine-cocktails" className={navLinkStyle}>Wine & Cocktails</NavLink>
+                    <NavLink to ="/menus" className={navLinkStyle}>Menus</NavLink>
                     <NavLink to ="/reservations" className={navLinkStyle}>Reservations</NavLink>
-                    <NavLink to ="/hours" className={navLinkStyle}>Hours</NavLink>
                     <NavLink to ="/about" className={navLinkStyle}>About</NavLink>
                 </nav>
 
@@ -50,12 +48,10 @@ export default function Navbar() {
                         animate= {{x: 0}}
                         exit={{x: '100%'}}
                         transition={{duration: 0.3, ease: easeInOut}}
-                        className="fixed flex flex-col w-1/3 z-60 top-19 bottom-0 right-0 items-center pt-10 gap-8 bg-white lg:hidden">
+                        className="fixed flex flex-col w-1/3 z-60 top-19 bottom-0 right-0 items-center pt-10 gap-8 font-description bg-white lg:hidden">
                         <NavLink to ="/" className={navLinkStyle}>Welcome</NavLink>
-                        <NavLink to ="/menu" className={navLinkStyle}>Menu</NavLink>
-                        <NavLink to ="/wine-cocktails" className={navLinkStyle}>Wine & Cocktails</NavLink>
+                        <NavLink to ="/menus" className={navLinkStyle}>Menus</NavLink>
                         <NavLink to ="/reservations" className={navLinkStyle}>Reservations</NavLink>
-                        <NavLink to ="/hours" className={navLinkStyle}>Hours</NavLink>
                         <NavLink to ="/about" className={navLinkStyle}>About</NavLink>
                     </motion.nav>
                         )}
