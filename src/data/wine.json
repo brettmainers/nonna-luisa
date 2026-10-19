@@ -1,0 +1,218 @@
+{
+    "bianchiByGlass" : [
+        {
+            "id": "1",
+            "name": "Pinot Grigio IGT 'Veneto'",
+            "description": "100% Pinot Grigio, Crispy, fresh and fruity. Very elegant, soft and delicate. Full, aromatic.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "2",
+            "name": "Chardonnay House Selection",
+            "description": "100% Chardonnay. Bright aromas of pear, apple, a hint of tropical fruit with vanilla oak.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "3",
+            "name": "Grillo IGT 'Sicily'",
+            "description": "100% Grillo. Dry, fruity and subtle with an elegant refreshing bouquet and crisp acidity.",
+            "price": " 10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "4",
+            "name": "Rosé House Selection",
+            "description": "50% Cinsault 50% Grenache. Elegant, pear and peach flavors with balanced acidity.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "5",
+            "name": "Sauvignon Blanc House Selection",
+            "description": "100% Sauvignon Blanc. Peach, passionfruit and pear appear over a creamy, lemony finish.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "6",
+            "name": "Falanghina House Selection",
+            "description": "100% Falanghina. A complex wine, exotic fruit and soft spices note, good acidity and mineral note.",
+            "price": "11 Glass / 40 Bottle"
+        },
+
+        {
+            "id": "7",
+            "name": "Pecorino 'Abruzzo'",
+            "description": "100% Pecorino. A complex wine, exotic fruit and soft spices note, good acidity and mineral note.",
+            "price": "10 Glass / 36 Bottle"
+        },
+        
+        {
+            "id": "8",
+            "name": "Trebbiano House Selection",
+            "description": "100% Zibibbo. Fruit scents of peach and mandarin to sage, floral notes of roses and wisteria.",
+            "price": "10 Glass / 36 Bottle"
+        }
+    ],
+
+    "bubblesAndDesserts" : [
+        {
+            "id": "1",
+            "name": "Prosecco DOCG",
+            "description": "100% Glera. Scents of white flowers and golden apple. Good intensity, fresh, elegant and soft.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "2",
+            "name": "Moscato",
+            "description": "100% Moscato. Delicate notes of grapes, orange blossoms, elderflower; sweet fruit flavors.",
+            "price": "10 Glass / 36 Bottle"
+        }
+    ],
+
+    "rossiByGlass" : [
+        {
+            "id": "1",
+            "name": "Pinot Noir House Selection",
+            "description": "100% Pinot Noir. Aromas of violets, iris, raspberries, dark cherries, rose, blueberries, and wet stones.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "2",
+            "name": "Merlot IGT 'Veneto'",
+            "description": "100% Merlot. Bright and cheerful; black cherry and juicy raspberries, laced with hints of spice.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "3",
+            "name": "Montepulciano D'Abruzzo DOC 'Abruzzo'",
+            "description": "100% Montepulciano D'Abruzzo. Aromas and flavors of black plum, black cherry, and black olives.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "4",
+            "name": "Chianti DOCG 'Toscana'",
+            "description": "80% Sangiovese, 20% Merlot. Juicy with an intense harmonious taste. A great balance.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "5",
+            "name": "Sangiovese House Selection",
+            "description": "100% Sangiovese. Spicy red cherry and raspberry aromas and flavors.",
+            "price": "10 Glass / 36 Bottle"
+        },
+
+        {
+            "id": "6",
+            "name": "Cabernet Sauvignon House Selection",
+            "description": "100% Cabernet Sauvignon. Flavors of spicy black pepper, ripe blueberries, and black plum.",
+            "price": "10 Glass / 36 Bottle"
+        }
+    ],
+
+    "toscana" : [
+        {
+            "id": "1",
+            "name": "Chianti Classico",
+            "description": "100% Sangiovese. Bursting with raspberry, juniper berries, and well structured. (Organic)",
+            "price": "44.00"
+        },
+
+        {
+            "id": "2",
+            "name": "Chianti Classico Riserva Valvirginio DOCG",
+            "description": "100% Sangiovese. Aromas of darks and red fruits with intense scents of spices. Well balanced.",
+            "price": "55.00"
+        },
+
+        {
+            "id": "3",
+            "name": "Nobile di Montepulciano II Conventino Riserva DOCG",
+            "description": "85% Sangiovese, 15% Colorino. Withered flowers, berries, red ripe fruit with balsamic notes.",
+            "price": "62.00"
+        },
+
+        {
+            "id": "4",
+            "name": "Brunello di Montalcino Collemattoni",
+            "description": "100% Sangiovese. Cherry, strawberry, eucalyptus, tobacco, and mineral flavors. Long finish.",
+            "price": "110.00"
+        },
+
+        {
+            "id": "5",
+            "name": "Tignanello Antinori 2020",
+            "description": "80% Sangiovese, 15% Cabernet, 5% Cabernet Franc. Aromatic intensity and flavor of red fruit, sour cherry, spices, tobacco, and herbs",
+            "price": "190.00"
+        }
+    ],
+
+    "piemonte" : [
+        {
+            "id": "1",
+            "name": "Nebbiolo Terzetto DOC",
+            "description": "100% Nebbiolo. Offers orange peel, raspberry, rose, cherry, and baking spice aromatics.",
+            "price": "55.00"
+        },
+
+        {
+            "id": "2",
+            "name": "Barbaresco Casetta DOCG",
+            "description": "100% Nebbiolo. Intense with violet and blackberry hints. Full flower in the mouth",
+            "price": "75.00"
+        },
+
+        {
+            "id": "3",
+            "name": "Barolo Terzetto DOC",
+            "description": "100% Nebbiolo. Intense bouquet of flowers and dark red fruit overtones. Slightly spicy.",
+            "price": "85.00"
+        }
+    ],
+
+    "veneto" : [
+        {
+            "id": "1",
+            "name": "Ripasso Scuola Grande DOCG",
+            "description": "40% Corvina, 30% Molinara, 30% Rondinella. Persistent notes of ripe red fruits, tobacco, spices and vanilla.",
+            "price": "49.00"
+        },
+
+        {
+            "id": "2",
+            "name": "Amarone Scuola Grande DOCG",
+            "description": "40% Corvina, 35% Rondinella, 25% Molinara. Baked fruits, plums, and cherry with hints of coffee and cocoa",
+            "price": "85.00"
+        }
+    ],
+
+    "altreRegioni" : [
+        {
+            "id": "1",
+            "name": "Nero D'Avola Fina 'Sicilia'",
+            "description": "100% Nero D'Avola. Intense and fruity flavors, nice inklings of eastern spice. Soft to the palate.",
+            "price": "44.00"
+        },
+
+        {
+            "id": "2",
+            "name": "Aglianico del Vulture Casa Maschito 'Basilicate'",
+            "description": "100% Aglianico. Spicy red cherry and raspberry aroma and flavors. Pleasantly persistent.",
+            "price": "48.00"
+        },
+
+        {
+            "id": "3",
+            "name": "Primitivo Petraio 'Puglia'",
+            "description": "100% Primitivo. Black cherry and spice aromas. Dry, ripe black fruit flavors with balanced acidity.",
+            "price": "44.00"
+        }
+    ]
+}

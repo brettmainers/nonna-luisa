@@ -1,0 +1,81 @@
+[
+    {
+    "id": "1",
+    "name": "Torta Della Nonna",
+    "description": "Pastry cream with a hint of lemon, shortened pastry covered with pine nuts, almonds, and powdered sugar",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "2",
+    "name": "Tiramisu",
+    "description": "Layers of espresso drenched ladyfingers, separated by mascarpone cream and covered in coco powder",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "3",
+    "name": "Pistachio Cheesecake",
+    "description": "",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "4",
+    "name": "Créme Brulee Cheesecake",
+    "description": "",
+    "price": "$11.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "5",
+    "name": "Chocolate Hazelnut Cake",
+    "description": "",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "6",
+    "name": "Profiteroles",
+    "description": "Cream puffs surrounded by vanilla and chocolate ice cream",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "7",
+    "name": "Tartufo Classico",
+    "description": "Zabalone semifreddo surrounded by chocolate gelato and caramelized hazelnuts, topped with coco powder",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "8",
+    "name": "Cannoli",
+    "description": "A crisp and light shell filled with a ricotta cheese filling. Dipped in your choice of mini chocolate chips, pistachios, or sliced almonds, covered with powdered sugar",
+    "price": "$9.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "9",
+    "name": "Limoncello Mascarpone Cake",
+    "description": "",
+    "price": "$10.00",
+    "category": "Desserts"
+    },
+
+    {
+    "id": "10",
+    "name": "Sfogliatella",
+    "description": "A crispy, flaky, thin dough stuffed with a sweet ricotta cheese filling then baked",
+    "price": "$9.00",
+    "category": "Desserts"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+    "id": "1",
+    "name": "Hugo Spritz",
+    "description": "",
+    "price": "$13.00"
+    },
+
+    {
+    "id": "2",
+    "name": "Limoncello Spritz",
+    "description": "",
+    "price": "$13.00"
+    },
+
+    {
+    "id": "3",
+    "name": "Negroni",
+    "description": "It doesn't get more Italian than this! Gin, Campari, and Vermouth Rosso",
+    "price": "$13.00"
+    },
+
+    {
+    "id": "4",
+    "name": "Paper Plane",
+    "description": "A beautiful balance between bitter, sour, and herbal. Bulleit Bourbon, Aperol, Amaro Nonino and fresh lemon",
+    "price": "$15.00"
+    },
+
+    {
+    "id": "5",
+    "name": "Sicillian Sour",
+    "description": "Your taste buds will thank you. Malfy Blood Orange Gin, Bitters, fresh lime",
+    "price": "$14.00"
+    },
+
+    {
+    "id": "6",
+    "name": "Milan Mule",
+    "description": "It's a kick! Vodka, basil, fresh lime, and ginger beer",
+    "price": "$11.00"
+    },
+
+    {
+    "id": "7",
+    "name": "Nonna Luisa's Margarita",
+    "description": "Resposado Tequila, Amaretto, fresh squeezed citrus, served up or on the rocks with a salt and sugar rim",
+    "price": "$13.00"
+    },
+
+    {
+    "id": "8",
+    "name": "Chocolate Cream Martini",
+    "description": "Dessert in a glass. Bailey's Irish Cream, Kahula, Chocolate Liqeur, Vanilla Vodka and cream",
+    "price": "$15.00"
+    },
+
+    {
+    "id": "9",
+    "name": "Betania Margarita",
+    "description": "Tequila, Cocchi Rossa, Lime Juice, Triple Sec on the rocks finished with Grape Fruit Soda",
+    "price": "$14.00"
+    }
+]
