@@ -1,10 +1,9 @@
 import Home from './pages/home.jsx'
-import Menu from './pages/menu.jsx'
-import WineCocktails from './pages/wine-cocktails.jsx'
+import Menus from './pages/menus.jsx'
 import Reservations from './pages/reservations.jsx'
-import Hours from './pages/hours.jsx'
 import About from './pages/about.jsx'
 import Navbar from './components/navbar.jsx'
+import Footer from './components/footer.jsx'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 export default function App() {
@@ -13,12 +12,11 @@ export default function App() {
         <Navbar />
         <Routes>
           <Route path="/" element = {<Home />} />
-          <Route path="/menu" element = {<Menu />} />
-          <Route path="/wine-cocktails" element = {<WineCocktails/>} />
+          <Route path="/menus" element = {<Menus />} />
           <Route path="/reservations" element = {<Reservations />} />
-          <Route path="/hours" element = {<Hours />} />
           <Route path="/about" element = {<About />} />
         </Routes>
+        <Footer />
     </BrowserRouter>
   )
 }

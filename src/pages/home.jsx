@@ -11,8 +11,8 @@ export default function Home() {
             />
 
             <div className="absolute inset-0 flex flex-col justify-center items-center gap-4 px-8 bg-black/50">
-                <h1 className="font-bold text-5xl text-white text-center">Nonna Luisa Ristorante</h1>
-                <p className=" mt-5 font-bold text-xl text-white text-center">
+                <h1 className="font-bold text-7xl text-white text-center font-heading">Nonna Luisa Ristorante</h1>
+                <p className=" mt-5 text-xl text-white text-center font-description">
                     The premiere destination for authentic Italian cuisine in Skagit County
                 </p>
                 
@@ -20,14 +20,14 @@ export default function Home() {
                 {isMobile ? (
                     <a
                     href="tel:+13608994659"
-                    className="bg-red-800 text-white px-6 py-3 mt-5 hover:bg-red-700 transition-colors"
+                    className="bg-red-800 text-white font-description px-6 py-3 mt-5 hover:bg-red-700 transition-colors"
                     >
                         Reserve a Table
                     </a>) : (
 
                     <Link
                     to="/reservations"
-                    className="bg-red-800 text-white px-6 py-3 mt-5 hover:bg-red-700 transition-colors"
+                    className="bg-red-800 text-white font-description px-6 py-3 mt-5 hover:bg-red-700 transition-colors"
                     >
                     Reserve a Table
                     </Link>
